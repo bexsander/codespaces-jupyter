@@ -14,7 +14,7 @@
 ,,13,AZ - 5,Open Seat Left by Biggs (R),Race Rating: Safe R,AZ05
 ,,14,AZ - 6,Incumbent: Juan Ciscomani (R),Race Rating: Tilt D,AZ06
 ,,15,AZ - 7,Incumbent: Raul Grijalva (D),Race Rating: Safe D,AZ07
-,,16,AZ - 8,Incumbent: Abraham Hamadeh (R),Race Rating: Likely R,AZ08
+,,16,AZ - 8,Incumbent: Abraham Hamadeh (R),Race Rating: Safe R,AZ08
 ,,17,AZ - 9,Incumbent: Paul Gosar (R),Race Rating: Safe R,AZ09
 ,,18,AR - 1,Incumbent: Rick Crawford (R),Race Rating: Safe R,AR01
 ,,19,AR - 2,Incumbent: French Hill (R),Race Rating: Lean R,AR02
@@ -203,7 +203,7 @@
 ,,202,MI - 4,Incumbent: Bill Huizenga (R),Race Rating: Tossup,MI04
 ,,203,MI - 5,Incumbent: Tim Walberg (R),Race Rating: Safe R,MI05
 ,,204,MI - 6,Incumbent: Debbie Dingell (D),Race Rating: Safe D,MI06
-,,205,MI - 7,Incumbent: Tom Barrett (R),Race Rating: Tossup,MI07
+,,205,MI - 7,Incumbent: Tom Barrett (R),Race Rating: Tilt R,MI07
 ,,206,MI - 8,Incumbent: Kristen Rivet (D),Race Rating: Likely D,MI08
 ,,207,MI - 9,Incumbent: Lisa McClain (R),Race Rating: Safe R,MI09
 ,,208,MI - 10,Open Seat Left by James (R),Race Rating: Tossup,MI10
@@ -272,7 +272,7 @@
 ,,271,NY - 14,Incumbent: Alexandria Ocasio-Cortez (D),Race Rating: Safe D,NY14
 ,,272,NY - 15,Incumbent: Ritchie Torres (D),Race Rating: Safe D,NY15
 ,,273,NY - 16,Incumbent: George Latimer (D),Race Rating: Safe D,NY16
-,,274,NY - 17,Incumbent: Michael Lawler (R),Race Rating: Tilt D,NY17
+,,274,NY - 17,Incumbent: Michael Lawler (R),Race Rating: Tossup,NY17
 ,,275,NY - 18,Incumbent: Pat Ryan (D),Race Rating: Safe D,NY18
 ,,276,NY - 19,Incumbent: Josh Riley (D),Race Rating: Likely D,NY19
 ,,277,NY - 20,Incumbent: Paul Tonko (D),Race Rating: Safe D,NY20
@@ -292,7 +292,7 @@
 ,,291,NC - 8,Incumbent: Mark Harris (R),Race Rating: Safe R,NC08
 ,,292,NC - 9,Incumbent: Richard Hudson (R),Race Rating: Likely R,NC09
 ,,293,NC - 10,Incumbent: Pat Harrigan (R),Race Rating: Safe R,NC10
-,,294,NC - 11,Incumbent: Chuck Edwards (R),Race Rating: Tossup,NC11
+,,294,NC - 11,Open Seat Left by Edwards (R),Race Rating: Tossup,NC11
 ,,295,NC - 12,Incumbent: Alma Adams (D),Race Rating: Safe D,NC12
 ,,296,NC - 13,Incumbent: Kelly Daughtry (R),Race Rating: Likely R,NC13
 ,,297,NC - 14,Incumbent: Tim Moore (R),Race Rating: Likely R,NC14
@@ -342,7 +342,7 @@
 ,,341,PA - 17,Incumbent: Chris Deluzio (D),Race Rating: Safe D,PA17
 ,,342,RI - 1,Incumbent: Gabe Amo (D),Race Rating: Safe D,RI01
 ,,343,RI - 2,Incumbent: Seth Magaziner (D),Race Rating: Safe D,RI02
-,,344,SC - 1,Open Seat Left by Mace (R),Race Rating: Tossup,SC01
+,,344,SC - 1,Open Seat Left by Mace (R),Race Rating: Tilt R,SC01
 ,,345,SC - 2,Incumbent: Joe Wilson (R),Race Rating: Safe R,SC02
 ,,346,SC - 3,Incumbent: Sheri Biggs (R),Race Rating: Safe R,SC03
 ,,347,SC - 4,Incumbent: William Timmons (R),Race Rating: Safe R,SC04
@@ -402,11 +402,11 @@
 ,,401,UT - 3,Incumbent: Mike Kennedy (R),Race Rating: Safe R,UT03
 ,,402,UT - 4,Incumbent: Burgess Owens (R),Race Rating: Safe R,UT04
 ,,403,VT - 0,Incumbent: Becca Balint (D),Race Rating: Safe D,VT00
-,,404,VA - 1,Incumbent: Rob Wittman (R),Race Rating: Tilt R,VA01
+,,404,VA - 1,Incumbent: Rob Wittman (R),Race Rating: Tossup,VA01
 ,,405,VA - 2,Incumbent: Jennifer Kiggans (R),Race Rating: Lean D,VA02
 ,,406,VA - 3,Incumbent: Bobby Scott (D),Race Rating: Safe D,VA03
 ,,407,VA - 4,Incumbent: Jennifer McClellan (D),Race Rating: Safe D,VA04
-,,408,VA - 5,Incumbent: John McGuire (R),Race Rating: Tilt R,VA05
+,,408,VA - 5,Incumbent: John McGuire (R),Race Rating: Likely R,VA05
 ,,409,VA - 6,Incumbent: Ben Cline (R),Race Rating: Safe R,VA06
 ,,410,VA - 7,Incumbent: Eugene Vindman (D),Race Rating: Likely D,VA07
 ,,411,VA - 8,Incumbent: Don Beyer (D),Race Rating: Safe D,VA08
