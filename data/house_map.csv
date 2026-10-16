@@ -17,7 +17,7 @@
 ,,16,AZ - 8,Incumbent: Abraham Hamadeh (R),Race Rating: Safe R,AZ08
 ,,17,AZ - 9,Incumbent: Paul Gosar (R),Race Rating: Safe R,AZ09
 ,,18,AR - 1,Incumbent: Rick Crawford (R),Race Rating: Safe R,AR01
-,,19,AR - 2,Incumbent: French Hill (R),Race Rating: Lean R,AR02
+,,19,AR - 2,Incumbent: French Hill (R),Race Rating: Likely R,AR02
 ,,20,AR - 3,Incumbent: Steve Womack (R),Race Rating: Safe R,AR03
 ,,21,AR - 4,Incumbent: Bruce Westerman (R),Race Rating: Safe R,AR04
 ,,22,CA - 1,Open Seat Left by LaMalfa (R),Race Rating: Safe D,CA01
@@ -67,7 +67,7 @@
 ,,66,CA - 45,Incumbent: Derek Tran (D),Race Rating: Likely D,CA45
 ,,67,CA - 46,Incumbent: Lou Correa (D),Race Rating: Safe D,CA46
 ,,68,CA - 47,Incumbent: David Min (D),Race Rating: Safe D,CA47
-,,69,CA - 48,Open Seat Left by Issa (R),Race Rating: Tilt D,CA48
+,,69,CA - 48,Open Seat Left by Issa (R),Race Rating: Lean D,CA48
 ,,70,CA - 49,Incumbent: Mike Levin (D),Race Rating: Safe D,CA49
 ,,71,CA - 50,Incumbent: Scott Peters (D),Race Rating: Safe D,CA50
 ,,72,CA - 51,Incumbent: Sara Jacobs (D),Race Rating: Safe D,CA51
@@ -75,7 +75,7 @@
 ,,74,CO - 1,Open Seat Left by DeGette (D),Race Rating: Safe D,CO01
 ,,75,CO - 2,Incumbent: Joe Neguse (D),Race Rating: Safe D,CO02
 ,,76,CO - 3,Incumbent: Jeff Hurd (R),Race Rating: Likely R,CO03
-,,77,CO - 4,Incumbent: Lauren Boebert (R),Race Rating: Lean R,CO04
+,,77,CO - 4,Incumbent: Lauren Boebert (R),Race Rating: Likely R,CO04
 ,,78,CO - 5,Incumbent: Jeff Crank (R),Race Rating: Tossup,CO05
 ,,79,CO - 6,Incumbent: Jason Crow (D),Race Rating: Safe D,CO06
 ,,80,CO - 7,Incumbent: Brittany Pettersen (D),Race Rating: Safe D,CO07
@@ -112,7 +112,7 @@
 ,,111,FL - 24,Open Seat Left by Wilson (D),Race Rating: Safe D,FL24
 ,,112,FL - 25,Incumbent: Debbie Wasserman Schultz (D),Race Rating: Tossup,FL25
 ,,113,FL - 26,Incumbent: Mario Diaz-Balart (R),Race Rating: Safe R,FL26
-,,114,FL - 27,Incumbent: Maria Elvira Salazar (R),Race Rating: Likely R,FL27
+,,114,FL - 27,Incumbent: Maria Elvira Salazar (R),Race Rating: Lean R,FL27
 ,,115,FL - 28,Incumbent: Carlos Gimenez (R),Race Rating: Safe R,FL28
 ,,116,GA - 1,Open Seat Left by Carter (R),Race Rating: Likely R,GA01
 ,,117,GA - 2,Incumbent: Sanford Bishop (D),Race Rating: Safe D,GA02
@@ -171,7 +171,7 @@
 ,,170,KY - 3,Incumbent: Morgan McGarvey (D),Race Rating: Safe D,KY03
 ,,171,KY - 4,Incumbent: Thomas Massie (R),Race Rating: Safe R,KY04
 ,,172,KY - 5,Incumbent: Hal Rogers (R),Race Rating: Safe R,KY05
-,,173,KY - 6,Open Seat Left by Barr (R),Race Rating: Tilt R,KY06
+,,173,KY - 6,Open Seat Left by Barr (R),Race Rating: Tossup,KY06
 ,,174,LA - 1,Incumbent: Steve Scalise (R),Race Rating: Safe R,LA01
 ,,175,LA - 2,Incumbent: Troy Carter (D),Race Rating: Safe D,LA02
 ,,176,LA - 3,Incumbent: Clay Higgans (R),Race Rating: Safe R,LA03
@@ -210,14 +210,14 @@
 ,,209,MI - 11,Open Seat Left by Stevens (D),Race Rating: Safe D,MI11
 ,,210,MI - 12,Incumbent: Rashida Tlaib (D),Race Rating: Safe D,MI12
 ,,211,MI - 13,Open Seat Left by Thanedar (D),Race Rating: Safe D,MI13
-,,212,MN - 1,Incumbent: Brad Finstad (R),Race Rating: Lean R,MN01
+,,212,MN - 1,Incumbent: Brad Finstad (R),Race Rating: Tossup,MN01
 ,,213,MN - 2,Open Seat Left by Craig (D),Race Rating: Likely D,MN02
 ,,214,MN - 3,Incumbent: Kelly Morrison (D),Race Rating: Safe D,MN03
 ,,215,MN - 4,Incumbent: Betty McCollum (D),Race Rating: Safe D,MN04
 ,,216,MN - 5,Incumbent: Ilhan Omar (D),Race Rating: Safe D,MN05
 ,,217,MN - 6,Incumbent: Tom Emmer (R),Race Rating: Safe R,MN06
 ,,218,MN - 7,Incumbent: Mischelle Fischbach (R),Race Rating: Safe R,MN07
-,,219,MN - 8,Incumbent: Pete Stauber (R),Race Rating: Likely R,MN08
+,,219,MN - 8,Incumbent: Pete Stauber (R),Race Rating: Safe R,MN08
 ,,220,MS - 1,Incumbent: Trent Kelly (R),Race Rating: Safe R,MS01
 ,,221,MS - 2,Incumbent: Bennie Thompson (D),Race Rating: Safe D,MS02
 ,,222,MS - 3,Incumbent: Michael Guest (R),Race Rating: Safe R,MS03
@@ -233,7 +233,7 @@
 ,,232,MT - 1,Open Seat Left by Zinke (R),Race Rating: Tossup,MT01
 ,,233,MT - 2,Incumbent: Troy Downing (R),Race Rating: Safe R,MT02
 ,,234,NE - 1,Incumbent: Mike Flood (R),Race Rating: Safe R,NE01
-,,235,NE - 2,Open Seat Left by Bacon (R),Race Rating: Lean D,NE02
+,,235,NE - 2,Open Seat Left by Bacon (R),Race Rating: Likely D,NE02
 ,,236,NE - 3,Incumbent: Adrian Smith (R),Race Rating: Safe R,NE03
 ,,237,NV - 1,Incumbent: Dina Titus (D),Race Rating: Likely D,NV01
 ,,238,NV - 2,Open Seat Left by Amodei (R),Race Rating: Lean R,NV02
@@ -247,7 +247,7 @@
 ,,246,NJ - 4,Incumbent: Chris Smith (R),Race Rating: Safe R,NJ04
 ,,247,NJ - 5,Incumbent: Josh Gottheimer (D),Race Rating: Safe D,NJ05
 ,,248,NJ - 6,Incumbent: Frank Pallone (D),Race Rating: Safe D,NJ06
-,,249,NJ - 7,Incumbent: Thomas Kean (R),Race Rating: Lean D,NJ07
+,,249,NJ - 7,Incumbent: Thomas Kean (R),Race Rating: Likely D,NJ07
 ,,250,NJ - 8,Incumbent: Rob Menendez (D),Race Rating: Safe D,NJ08
 ,,251,NJ - 9,Incumbent: Nellie Pou (D),Race Rating: Likely D,NJ09
 ,,252,NJ - 10,Incumbent: LaMonica McIver (D),Race Rating: Safe D,NJ10
@@ -276,7 +276,7 @@
 ,,275,NY - 18,Incumbent: Pat Ryan (D),Race Rating: Safe D,NY18
 ,,276,NY - 19,Incumbent: Josh Riley (D),Race Rating: Likely D,NY19
 ,,277,NY - 20,Incumbent: Paul Tonko (D),Race Rating: Safe D,NY20
-,,278,NY - 21,Open Seat Left by Stefanik (R),Race Rating: Lean R,NY21
+,,278,NY - 21,Open Seat Left by Stefanik (R),Race Rating: Tilt R,NY21
 ,,279,NY - 22,Incumbent: John Mannion (D),Race Rating: Safe D,NY22
 ,,280,NY - 23,Incumbent: Nick Langworthy (R),Race Rating: Safe R,NY23
 ,,281,NY - 24,Incumbent: Claudia Tenney (R),Race Rating: Safe R,NY24
@@ -342,7 +342,7 @@
 ,,341,PA - 17,Incumbent: Chris Deluzio (D),Race Rating: Safe D,PA17
 ,,342,RI - 1,Incumbent: Gabe Amo (D),Race Rating: Safe D,RI01
 ,,343,RI - 2,Incumbent: Seth Magaziner (D),Race Rating: Safe D,RI02
-,,344,SC - 1,Open Seat Left by Mace (R),Race Rating: Tilt R,SC01
+,,344,SC - 1,Open Seat Left by Mace (R),Race Rating: Tossup,SC01
 ,,345,SC - 2,Incumbent: Joe Wilson (R),Race Rating: Safe R,SC02
 ,,346,SC - 3,Incumbent: Sheri Biggs (R),Race Rating: Safe R,SC03
 ,,347,SC - 4,Incumbent: William Timmons (R),Race Rating: Safe R,SC04
@@ -358,7 +358,7 @@
 ,,357,TN - 6,Open Seat Left by  (R),Race Rating: Safe R,TN06
 ,,358,TN - 7,Incumbent: Mark Green (R),Race Rating: Safe R,TN07
 ,,359,TN - 8,Incumbent: David Kustoff (R),Race Rating: Safe R,TN08
-,,360,TN - 9,Open Seat Left by Cohen (D),Race Rating: Lean R,TN09
+,,360,TN - 9,Open Seat Left by Cohen (D),Race Rating: Likely R,TN09
 ,,361,TX - 1,Incumbent: Nathaniel Moran (R),Race Rating: Safe R,TX01
 ,,362,TX - 2,Open Seat Left by Crenshaw (R),Race Rating: Likely R,TX02
 ,,363,TX - 3,Incumbent: Keith Self (R),Race Rating: Safe R,TX03
@@ -406,9 +406,9 @@
 ,,405,VA - 2,Incumbent: Jennifer Kiggans (R),Race Rating: Lean D,VA02
 ,,406,VA - 3,Incumbent: Bobby Scott (D),Race Rating: Safe D,VA03
 ,,407,VA - 4,Incumbent: Jennifer McClellan (D),Race Rating: Safe D,VA04
-,,408,VA - 5,Incumbent: John McGuire (R),Race Rating: Likely R,VA05
+,,408,VA - 5,Incumbent: John McGuire (R),Race Rating: Lean R,VA05
 ,,409,VA - 6,Incumbent: Ben Cline (R),Race Rating: Safe R,VA06
-,,410,VA - 7,Incumbent: Eugene Vindman (D),Race Rating: Likely D,VA07
+,,410,VA - 7,Incumbent: Eugene Vindman (D),Race Rating: Safe D,VA07
 ,,411,VA - 8,Incumbent: Don Beyer (D),Race Rating: Safe D,VA08
 ,,412,VA - 9,Incumbent: Morgan Griffith (R),Race Rating: Safe R,VA09
 ,,413,VA - 10,Incumbent: Suhas Subramanyam (D),Race Rating: Safe D,VA10
